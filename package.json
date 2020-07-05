@@ -1,0 +1,13 @@
+{
+  "name": "acme",
+  "version": "1.0.0",
+  "description": "yarn workspace example",
+  "main": "index.js",
+  "repository": "https://josephluck.co.uk/blog/next-typescript-monorepo",
+  "author": "Joseph Luck",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "blog"
+  ]
+}
